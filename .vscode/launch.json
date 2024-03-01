@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Whileloop",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week1.Code2.Whileloop",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Forloop",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week1.Code2.Forloop",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Breakandcontinue",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week1.Code2.Breakandcontinue",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "breakcontinue",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week1.Code2.breakcontinue",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",
