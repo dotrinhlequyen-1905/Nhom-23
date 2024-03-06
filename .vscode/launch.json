@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Excersice6",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Excersice6.Excersice6",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Excersice5",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Excersice5.Excersice5",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Excersice3",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Excersice3.Excersice3",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Excersice2",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Excersice2.Excersice2",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Excersice1",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Excersice1",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Mainclass",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Mainclass",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Whileloop",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week1.Code2.Whileloop",
