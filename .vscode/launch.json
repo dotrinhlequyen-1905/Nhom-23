@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cycle",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week3.Code2.Task1.Excersice17.Cycle",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Excersice4",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Code2.Excersice4.Excersice4",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Excersice6",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Excersice6.Excersice6",
