@@ -1,4 +1,5 @@
-package com.mycompany.app.Week2.Excersice5;
+package com.mycompany.app.Week2.Code2.Excersice5;
+
 
 public class Student {
     public void display_public(){

@@ -1,4 +1,5 @@
-package com.mycompany.app.Week2.Excersice6;
+package com.mycompany.app.Week2.Code2.Excersice6;
+
 
 class student{
     protected String name = "Duy";
