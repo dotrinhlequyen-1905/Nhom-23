@@ -1,3 +1,5 @@
+package com.mycompany.app.week2.code1;
+
 public class Time {
     private int hour;
     private int minute;
