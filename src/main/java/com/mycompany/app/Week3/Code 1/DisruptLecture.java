@@ -1,3 +1,4 @@
+package com.mycompany.app.week3.code1;
 import java.util.Random;
 
 public class DisruptLecture {
